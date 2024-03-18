@@ -1,7 +1,7 @@
 package interview;
 
 import java.util.HashMap;
-
+// test
 public class DuplicateElement {
     public static void main(String args[]){
         int[] nums = {1,2,3,1};
