@@ -1,0 +1,9 @@
+
+L
+java:S1197"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ8ç¾ëß1
+L	java:S106"+Replace this use of System.out by a logger.(ŞÒ—üÿÿÿÿ8è¾ëß1
+L	java:S106"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8úœìß1
+g
+java:S1128"ERemove this unused import 'javax.swing.plaf.synth.SynthOptionPaneUI'.(ªè´¡şÿÿÿÿ8è¾ëß1
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8è¾ëß1

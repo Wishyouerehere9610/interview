@@ -1,0 +1,8 @@
+
+L
+java:S1197"*Move the array designators [] to the type.(ΞΝµϊÿÿÿÿ8ήοίί1
+r
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(Φ”‡L8ίοίί1
+s
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ªΑρ·8ΰοίί1
+L	java:S106"+Replace this use of System.out by a logger.(ξΑ–ϋÿÿÿÿ8ΰοίί1
