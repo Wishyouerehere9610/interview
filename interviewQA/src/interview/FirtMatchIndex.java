@@ -4,6 +4,7 @@ public class FirtMatchIndex {
     public static void main(String arg[]) {
         String haystack = "a";
         String needle = "a";
+        String test="";
         System.out.println(method(haystack, needle));
     }
 
